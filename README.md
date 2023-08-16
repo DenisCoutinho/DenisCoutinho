@@ -19,8 +19,9 @@ Olá! 👋 Sou Denis, um estudante de Ciência da Computação prestes a conclui
 - 📁 [Projeto B](link_para_o_projeto_b): Breve descrição do projeto.
 
 ## Contato
-- 📧 Email: seuemail@email.com
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil/)
-- 🐦 Twitter: [@seutwitter](https://twitter.com/seutwitter)
+- 📧 Email: coutinhodenis@yahoo.com.br
+- 💼 LinkedIn: [linkedin.com/in/denis-coutinho-95ba92263](www.linkedin.com/in/denis-coutinho-95ba92263)
+- 📷 Instagram: [@denisscoutinho](https://www.instagram.com/deniss_coutinho/)
+- 🐦 Twitter: [@DenisMe03857472](https://twitter.com/DenisMe03857472)
 
 Vamos conectar e compartilhar ideias! 🚀
