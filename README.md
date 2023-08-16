@@ -6,7 +6,7 @@ Olá! 👋 Sou Denis, estudo Ciência da Computação e estou prestes a concluir
 ## Sobre Mim
 - 📚 Atualmente estou focado em finalizar meu curso e aprimorar minhas habilidades em programação.
 - 💡 Tenho interesse em desenvolvimento web, aprendizado de máquina e tecnologias relacionadas.
-- 🎮 Nas horas vagas, gosto de jogar videogames, escutar música, assistir séries e explorar novas tecnologias.
+- 🎮 Nas horas vagas, gosto de jogar videogames, viajar, assistir séries e explorar novas tecnologias.
 
 ## Tecnologias que eu utilizo no meu dia a dia.
 
