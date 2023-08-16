@@ -3,12 +3,12 @@
 
 Olá! 👋 Sou Denis, estudo Ciência da Computação e estou prestes a concluir meu último período na Universidade Federal de Alfenas.
 
-## Sobre Mim
+## Sobre Mim:
 - 📚 Atualmente estou focado em finalizar meu curso e aprimorar minhas habilidades em programação.
 - 💡 Tenho interesse em desenvolvimento web, aprendizado de máquina e tecnologias relacionadas.
 - 🎮 Nas horas vagas, gosto de jogar videogames, viajar, assistir séries e explorar novas tecnologias.
 
-## Tecnologias que eu utilizo no meu dia a dia.
+## Tecnologias que eu utilizo no meu dia a dia:
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="javascript" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -21,7 +21,7 @@ Olá! 👋 Sou Denis, estudo Ciência da Computação e estou prestes a concluir
 
 ![Denis GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisCoutinho&show_icons=true&theme=dracula)
 
-## Contato
+## Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-coutinho-95ba92263/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deniss_coutinho/)
 
