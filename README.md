@@ -1,12 +1,12 @@
 # Denis Coutinho
 ### Estudante de Ciência da Computação 🎓 | Universidade Federal de Alfenas
 
-Olá! 👋 Sou Denis, um estudante de Ciência da Computação prestes a concluir meu último período na Universidade Federal de Alfenas.
+Olá! 👋 Sou Denis, estudo Ciência da Computação e estou prestes a concluir meu último período na Universidade Federal de Alfenas.
 
 ## Sobre Mim
 - 📚 Atualmente estou focado em finalizar meu curso e aprimorar minhas habilidades em programação.
-- 💡 Tenho interesse em aprendizado de máquina, desenvolvimento web e tecnologias relacionadas.
-- 🎮 Nas horas vagas, gosto de jogar videogames e explorar novas tecnologias.
+- 💡 Tenho interesse em desenvolvimento web, aprendizado de máquina e tecnologias relacionadas.
+- 🎮 Nas horas vagas, gosto de jogar videogames, escutar música, assistir séries e explorar novas tecnologias.
 
 ## Tecnologias que eu utilizo no meu dia a dia.
 
