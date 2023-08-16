@@ -22,7 +22,7 @@ Olá! 👋 Sou Denis, estudo Ciência da Computação e estou prestes a concluir
 ![Denis GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisCoutinho&show_icons=true&theme=dracula)
 
 ## Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-coutinho-95ba92263)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-coutinho-95ba92263/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deniss_coutinho/)
 
 Vamos conectar e compartilhar ideias! 🚀
