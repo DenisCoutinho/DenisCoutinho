@@ -1,16 +1,26 @@
-### Hi there 👋
+# Denis Coutinho
+### Estudante de Ciência da Computação 🎓 | Universidade Federal de Alfenas
 
-<!--
-**DenisCoutinho/DenisCoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 Sou Denis, um estudante de Ciência da Computação prestes a concluir meu último período na Universidade Federal de Alfenas.
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 📚 Atualmente estou focado em finalizar meu curso e aprimorar minhas habilidades em programação.
+- 💡 Tenho interesse em aprendizado de máquina, desenvolvimento web e tecnologias relacionadas.
+- 🎮 Nas horas vagas, gosto de jogar videogames e explorar novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- 💻 Linguagens: Python, Java, C++
+- 🌐 Desenvolvimento Web: HTML, CSS, JavaScript
+- 🤖 Aprendizado de Máquina: Scikit-Learn, TensorFlow
+- 🔧 Ferramentas: Git, Visual Studio Code
+
+## Projetos
+- 📁 [Projeto A](link_para_o_projeto_a): Breve descrição do projeto.
+- 📁 [Projeto B](link_para_o_projeto_b): Breve descrição do projeto.
+
+## Contato
+- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil/)
+- 🐦 Twitter: [@seutwitter](https://twitter.com/seutwitter)
+
+Vamos conectar e compartilhar ideias! 🚀
